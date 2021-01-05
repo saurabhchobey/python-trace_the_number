@@ -1,1 +1,1 @@
-number ="+918368087704"
+number =int(input())
